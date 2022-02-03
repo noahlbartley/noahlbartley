@@ -1,16 +1,28 @@
-### Hi there 👋
+### About Me
+My name is Noah (Landon) Bartley and I am a developer. I usually program in C# but know more programming languages. I've worked on many self-projects so I think I know my way around an operating system and a programming language.
 
-<!--
-**noahlbartley/noahlbartley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Programming Skills
+A few programming languages I know or are learning more are as follows:
 
-Here are some ideas to get you started:
+- C#
+- JavaScript
+- Java
+- C++
+- C
+- Assembly (Specific: MASM)
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And if you are wanting to count web-development languages, I know:
+
+- HTML
+- CSS
+
+### Operating System Skills
+As someone who is interested in operating systems and is a frequent distro-hopper, I've got used to operating systems and how they work. A few operating systems I know how to use are as follows:
+
+- ReactOS
+- Linux Mint
+- Ubuntu
+- Kali Linux
+- Puppy Linux
+- A lot of Windows operating systems. Including the older and latest ones.
